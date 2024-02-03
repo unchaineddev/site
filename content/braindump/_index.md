@@ -6,5 +6,7 @@ draft = false
 
 _all my braindumps are listed here._
 
+- 09-01-2024 --- [Ram's Wise Mind](/braindump/rams-wise-mind)
+- 17-11-2023 --- [json.dumps vs json.loads](/braindump/json-dumps-vs-loads/)
 - 02-10-2023 --- [Activate Virtual Environments in Powershell](/braindump/venv/)
 - 11-09-2023 --- [setting up proxies (IP authentication) with Selenium and Python](/braindump/proxy-auth/)
