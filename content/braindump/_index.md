@@ -6,6 +6,7 @@ draft = false
 
 _all my braindumps are listed here._
 
+- 11-02-2024 --- [How to check CPU Usage in the Terminal?](/braindump/cpu-usage-terminal)
 - 09-01-2024 --- [Ram's Wise Mind](/braindump/rams-wise-mind)
 - 17-11-2023 --- [json.dumps vs json.loads](/braindump/json-dumps-vs-loads/)
 - 02-10-2023 --- [Activate Virtual Environments in Powershell](/braindump/venv/)
