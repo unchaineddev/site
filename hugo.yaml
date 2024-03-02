@@ -42,14 +42,17 @@ params:
 
 menu:
   main:
+    - name: Braindump
+      pageRef: /braindump
+      weight: 1
     - name: Blog
       pageRef: /blog
-      weight: 1
+      weight: 2
     - name: Contact
       pageRef: /contact
-      weight: 2
-    - name: Search
       weight: 3
+    - name: Search
+      weight: 4
       params:
         type: search
     # - name: GitHub
