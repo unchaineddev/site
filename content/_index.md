@@ -47,16 +47,16 @@ only this and nothing more. &nbsp;<br class="sm:block hidden" />
 
 
 <div class="mb-12">
-Hi, my name is yusuf. I am a pythoneer in leveraging technology to drive innovation and deliver effective solutions.
+Hi, I am yusuf. I am a Python Developer, Linux Administrator and Open-Source Enthusiast.
 &nbsp;<br class="sm:block hidden" />
 
 &nbsp;<br class="sm:block hidden" />
 
-This website is my home on the internet and its owner is also called <a href="https://c.tenor.com/mSl-6FcyX5IAAAAC/leonardo-leonardo-dicaprio.gif" style="color: orange;">Unchained Dev</a> around here. My areas of interest&nbsp;<br class="sm:block hidden" />are in cinema, programming, linux, literature, history and philosophy.
+This website is my home on the internet. I am also known as <a href="https://c.tenor.com/mSl-6FcyX5IAAAAC/leonardo-leonardo-dicaprio.gif" style="color: orange;">Unchained Dev</a> around here. My areas of interest&nbsp;<br class="sm:block hidden" />is in film, programming, linux, literature, history and philosophy.
 
 &nbsp;<br class="sm:block hidden" /> 
 
-  In summary, this site contains an overview of stuff I like. Do note, all views and opinions shared on this website are my own. 
+In summary, this site contains an overview of stuff I like. Do note, all views and opinions shared on this website are my own. 
 
 &nbsp;<br class="sm:block hidden" /> 
 
