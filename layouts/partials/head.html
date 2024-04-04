@@ -25,10 +25,11 @@
 
 
   <!-- Google Analytics -->
-  {{- if and (eq hugo.Environment "production") (or .Site.GoogleAnalytics .Site.Config.Services.GoogleAnalytics.ID) }}
+  <!-- {{- if and (eq hugo.Environment "production") (or .Site.GoogleAnalytics .Site.Config.Services.GoogleAnalytics.ID) }}
     <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin />
     {{ partial "google-analytics.html" . }}
-  {{- end }}
+  {{- end }} -->
+  <script defer src="https://analytics.eu.umami.is/script.js" data-website-id="2cc30454-e57d-4b4f-be94-208ac6deb371"></script>
 
 
   <script>

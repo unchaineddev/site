@@ -2,9 +2,14 @@
 baseURL: "https://unchaineddev.github.io/"
 title: "Unchained Dev"
 
-services:
-  googleAnalytics:
-    ID: G-HYRGKSP2LR
+# services:
+#   googleAnalytics:
+#     ID: G-HYRGKSP2LR
+
+# [Params.umami]
+#   enabled = true
+#   websiteId = "unique-website-id"
+#   jsLocation = "https://analytics.my-hugo-blog.tld/umami.js"
 
 outputs:
   home: [HTML]
