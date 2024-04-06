@@ -2,7 +2,7 @@
 title = 'Stop Using Whatsapp'
 date = 2024-02-18T21:05:35+05:30
 draft = false
-tags = ['technology', 'privacy']
+tags = ['technology', 'privacy', 'politics']
 +++
 
 It's disheartening to go against what is a lost cause. To tell someone to stop using whatsapp 
