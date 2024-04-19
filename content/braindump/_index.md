@@ -6,6 +6,7 @@ draft = false
 
 _all my braindumps are listed here._
 
+- 16-04-2024 --- [MongoDB Setup](/braindump/mongodb-setup/)
 - 06-03-2024 --- [Signal Gets Usernames!](/braindump/signal-gets-usernames/)
 - 17-02-2024 --- [Best Way to Download Youtube Videos](/braindump/ytdlp)
 - 11-02-2024 --- [How to check CPU Usage in the Terminal?](/braindump/cpu-usage-terminal)
