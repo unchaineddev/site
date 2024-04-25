@@ -2,6 +2,7 @@
 title = 'The Crooked Timber Of New India'
 date = 2024-04-24T20:40:58+05:30
 draft = false
+tags = ['politics', 'life']
 +++
 
 I stumbled upon a [YouTube video](https://www.youtube.com/watch?v=DLy3YOJeogA)
