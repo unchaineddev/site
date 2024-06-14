@@ -4,13 +4,15 @@ date = 2024-01-15T20:20:56+05:30
 draft = false
 +++
 
-I primarily use signal for messaging. Scan below QR for a chat.
+<!-- I primarily use signal for messaging. Scan below QR for a chat.
 
 
 <div style="justify-content: center;">
 {{< figure src="/braindump/signal" width="300px" >}}
 </div>
-<p> Click on the icons below for other stuff</p>
+<p> Click on the icons below for other stuff</p> -->
+
+<p> Click on the icons below: </p> 
 
 <div style="display: flex;">
     <a href="https://github.com/unchaineddev" target="_blank" rel="noopener noreferrer"><img src="/contact/github-mark-white.png" width="40" height="40" style="margin-left: 20px;"></a>

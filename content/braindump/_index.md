@@ -8,6 +8,7 @@ _all my braindumps are listed here._
 
 ## 2024
 
+- 01-06-2024 --- [shutil module in python](/braindump/shutil/)
 - 01-05-2024 --- [Unforgettable Experience @ the Zero1 Fest](/braindump/zero1-fest-2024/)
 - 16-04-2024 --- [MongoDB Setup](/braindump/mongodb-setup/)
 - 06-03-2024 --- [Signal Gets Usernames!](/braindump/signal-gets-usernames/)

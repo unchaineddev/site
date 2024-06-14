@@ -132,6 +132,21 @@ is a wonderful idea of progress, atleast in theory. Nonetheless to share-it-all
 with a friend is a priceless benefit.
 
 
+## Letter VII
+
+
+In a world driven through trends, events and content, there is always a chaotic
+mind. Though Seneca highlights in this letter that consorting with a mass crowd
+is harmful, I beleive mingling with the wrong crowd is far more perilous. It's
+often said that one's character is significantly influenced by the five closest
+people one associates with. Therefore, it is essential to be picky in that respect.
+Someone who improves your character; Someone who you can improve. A process of
+mutual improvement.
+
+
+<i><center>A few is enough for me; so is one; and so is none. </i></center>
+
+
 
 [^1]: https://en.wikipedia.org/wiki/Stoicism
 
